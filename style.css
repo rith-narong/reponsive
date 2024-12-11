@@ -1,0 +1,54 @@
+.heigth{
+    height: 40px;
+}
+.imgs{
+    width: 250px;
+    height: 200px;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.div{
+    width: 100%;
+    height: 190px;
+    margin: 5px;
+    border: 2px solid black;
+}
+.background{
+    background-image: url(img/OIP\ \(2\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+.imgsize{
+    width: 100px;
+    height: 110px;
+    margin: 10px;
+}
+.bo{
+    width: 100%;
+    height: 130px;
+}
+.bg1{
+    background-image: url(img/OIP\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bg2{
+    background-image: url(img/download.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 170px;
+}
+.bg3{
+    background-image: url(img/OIP.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 190px;
+}
+.bg4{
+    background-image: url(img/OIP\ \(4\).jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 190px;
+}
